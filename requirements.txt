@@ -33,3 +33,5 @@ python-multipart>=0.0.6
 
 # Notifications
 plyer>=2.1.0
+
+aiofiles==23.2.1
