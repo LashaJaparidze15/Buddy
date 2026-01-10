@@ -16,10 +16,10 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:5173",  # Local development
-        "http://localhost:3000",  # Alternative local port
-        "https://*.vercel.app",   # All Vercel deployments
-        "*",                       # Allow all (simple, for now)
+        "http://localhost:5173",
+        "http://localhost:3000",
+        "https://buddy-lime.vercel.app",
+        "https://*.vercel.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
