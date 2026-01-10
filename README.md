@@ -1,4 +1,4 @@
-# Buddy - Smart Daily Planner  **[▶️ Live Demo](https://buddy-lime.vercel.app)** | 📖 **[API Docs](https://web-production-6e4cd.up.railway.app/docs)**
+# Buddy - Smart Daily Planner  **[Live Demo](https://buddy-lime.vercel.app)** | **[API Docs](https://web-production-6e4cd.up.railway.app/docs)**
 
 A full-stack web application for managing daily activities, tracking progress, and staying informed with weather, news, and stock updates.
 
