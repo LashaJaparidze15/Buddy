@@ -1,4 +1,4 @@
-# Buddy - Smart Daily Planner
+# Buddy - Smart Daily Planner  **[▶️ Live Demo](https://buddy-lime.vercel.app)** | 📖 **[API Docs](https://web-production-6e4cd.up.railway.app/docs)**
 
 A full-stack web application for managing daily activities, tracking progress, and staying informed with weather, news, and stock updates.
 
@@ -67,7 +67,18 @@ buddy/
 └── README.md
 ```
 
-## Installation
+## Getting Started
+
+### Quick Start (Live Version)
+
+Try Buddy right now without installation: **[Open Buddy Live](https://buddy-lime.vercel.app)**
+
+Everything works out of the box! No setup needed.
+
+### Local Development Setup
+
+If you want to run it locally...
+[rest of installation section stays the same]
 
 ### Prerequisites
 
@@ -121,6 +132,14 @@ Get free API keys from:
 
 ## Running the Application
 
+### Online (No Installation Required)
+
+Visit: **https://buddy-lime.vercel.app**
+
+All features work immediately with live API integration.
+
+### Locally (Development)
+...
 ### Start Backend Server
 ```bash
 # From project root with venv activated
@@ -184,6 +203,16 @@ python buddy.py report
 # View analytics
 python buddy.py analytics
 ```
+
+## Deployment
+
+Buddy is deployed on:
+
+- **Frontend:** [Vercel](https://vercel.com) - https://buddy-lime.vercel.app
+- **Backend:** [Railway](https://railway.app) - https://web-production-6e4cd.up.railway.app
+- **API Documentation:** https://web-production-6e4cd.up.railway.app/docs
+
+The app is live 24/7 and fully functional!
 
 ## Screenshots
 
