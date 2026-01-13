@@ -217,13 +217,16 @@ The app is live 24/7 and fully functional!
 ## Screenshots
 
 ### Dashboard
-Clean overview of weather, activities, and suggestions.
+![Dashboard](screenshots/buddyDash.png)
 
-### Activities
-Full-width table with filtering and quick actions.
+### Weather
+![Weather](screenshots/weather.png)
 
-### Analytics
-Visual progress tracking with charts and insights.
+### News
+![News](screenshots/news.png)
+
+### Settings
+![Settings](screenshots/settings.png)
 
 ## Contributing
 
