@@ -3,7 +3,13 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from api.routers import activities, weather, news, stocks, analytics, dashboard, settings
-from api.routers import activities, weather, news, stocks, analytics, dashboard
+
+# Initialize database on startup
+try:
+    from src.models import init_db
+    init_db()
+except Exception as e:
+    print(f"Database initialization note: {e}")
 
 # Initialize FastAPI app
 app = FastAPI(
